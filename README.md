@@ -17,7 +17,7 @@ If you do not already have a Linode, the $5 option will work. You should get som
 
 ## 1
 
-Clone this repository or download the script the machine. You need to make it executable using:
+Clone this repository or download the script to the machine. You need to make it executable using:
 
 ```chmod +x woodbins.sh```
 
@@ -35,7 +35,7 @@ You can also build your own version of Woodcoin and serve it. The script will he
 
 Thanks for reading this far. 
 
-Visit me at [phm.link](https://phm.link] or send me some money via [pay.phm.link](https://pay.phm.link). I definitely accept Woodcoin: WhVErxiwMoHfh5VgMmDNzSFp8faGv1Daom
+Visit me at [phm.link](https://phm.link) or send me some money via [pay.phm.link](https://pay.phm.link). I definitely accept Woodcoin: WhVErxiwMoHfh5VgMmDNzSFp8faGv1Daom
 
 Now watch this video, and see how this can save you hours of compile time -- just 5 minutes, even with buggy 1.0.
 
