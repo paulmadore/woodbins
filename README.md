@@ -35,7 +35,7 @@ You can also build your own version of Woodcoin and serve it. The script will he
 
 Thanks for reading this far. 
 
-Visit me at phm.link or send me some money via pay.phm.link. I definitely accept Woodcoin: WhVErxiwMoHfh5VgMmDNzSFp8faGv1Daom
+Visit me at [phm.link](https://phm.link] or send me some money via [pay.phm.link](https://pay.phm.link). I definitely accept Woodcoin: WhVErxiwMoHfh5VgMmDNzSFp8faGv1Daom
 
 Now watch this video, and see how this can save you hours of compile time -- just 5 minutes, even with buggy 1.0.
 
