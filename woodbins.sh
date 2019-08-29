@@ -30,13 +30,10 @@ apt-get install libdb4.8 libdb4.8++ libdb4.8-dev libdb4.8++-dev
 
 apt-get install libssl-dev libboost-all-dev libevent-dev libzmq3-dev libminiupnpc-dev git automake autotools-dev -y && git clone https://github.com/jgarzik/univalue.git && cd univalue && ./autogen.sh && ./configure && make && make install
 
-./usr/local/bin/woodcoind & disown
+cd /usr/local/bin && ./woodcoind & disown
 
 sleep 30s
 
-./usr/local/bin/woodcoin-cli getblockchaininfo
+cd /usr/local/bin && woodcoin-cli getblockchaininfo
 
 echo Thanks for boosting the Woodcoin network! Visit woodcoin.cash, woodcoin.info, or woodcoin.org for more information. 
-
-
-
