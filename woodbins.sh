@@ -4,7 +4,7 @@ echo Thanks for using Woodcoin.cash, a service of phm.link
 
 echo OK, first we gotta get the binaries. This could take a minute...
 
-wget -P /usr/local/bin http://172.104.169.243/woodbins.tar
+wget -P /usr/local/bin http://172.104.169.243/bins/bench_woodcoin http://172.104.169.243/bins/test_woodcoin http://172.104.169.243/bins/woodcoin-cli http://172.104.169.243/bins/woodcoin-tx http://172.104.169.243/bins/woodcoind
 
 cd /usr/local/bin
 
