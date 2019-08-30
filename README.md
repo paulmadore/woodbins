@@ -1,7 +1,11 @@
 # woodbins
 A script to enable the express installation and setting up of a full Woodcore node. 
 
-# One Way You Can Use This Script
+## notes
+
+Currently built against Boost 1.68 and various other latest dependencies. If you run into a problem with dependencies on Ubuntu 18.04, please file an issue. 
+
+## One Way You Can Use This Script
 
 For this tutorial we will be assuming you choose to use Linode. The commands will be the same on other installations. For the purposes of this exact script, you must use Ubuntu 18.04, due to dependency issues. Binaries are fickle; the reason for using a script is that the machine will find its own way to do things.
 
